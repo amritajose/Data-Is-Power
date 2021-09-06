@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Amrita | Portfolio</title>
+    <link>https://amritajose.github.io/Data-Is-Power/categories/python/</link>
+    <description>Recent content in Python on Amrita | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://amritajose.github.io/Data-Is-Power/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Airbnb Zillow Kaggle Data Challenge</title>
+      <link>https://amritajose.github.io/Data-Is-Power/portfolio/project-2/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://amritajose.github.io/Data-Is-Power/portfolio/project-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chatbot Eliza</title>
+      <link>https://amritajose.github.io/Data-Is-Power/portfolio/project-4/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://amritajose.github.io/Data-Is-Power/portfolio/project-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>https://amritajose.github.io/Data-Is-Power/portfolio/project-5/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://amritajose.github.io/Data-Is-Power/portfolio/project-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Scraping with Text Summaries</title>
+      <link>https://amritajose.github.io/Data-Is-Power/portfolio/project-3/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://amritajose.github.io/Data-Is-Power/portfolio/project-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
